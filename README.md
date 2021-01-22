@@ -16,7 +16,7 @@ Removal
 uses **make** and **g++17** (see makefile)  
   
 ### How to play
-The player who guesses closest to the randomly generated number (1-100) gets first move  
+The player who guesses closest to the randomly generated number (1-100 inclusive) gets first move  
   
 Each player enters their move in `row column` format (there must be a space between them)  
   
