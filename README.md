@@ -4,7 +4,7 @@ Download
 `$ git clone git@github.com:koochin/tic-tac-toe.git`  
   
 Build  
-`$ cd patient-management-system`  
+`$ cd tic-tac-toe`  
 `$ make`
   
 Run  
